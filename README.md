@@ -23,7 +23,7 @@ El proyecto actualmente, consume la api, obtiene origen y destino, y permite sel
 
 ### 3. Instalacion: 
 
-- Clonar respositorio https://github.com/AlejandroGiron97/FrontNewShoreAir_.git
+- Clonar respositorio https://github.com/AlejandroGiron97/newShore_Air.git
 - cd (Buscar ruta del repositorio
 - npm install (Instalacion de modulos)
 - ng serve (Ejecución del programa)
